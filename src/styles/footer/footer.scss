@@ -1,0 +1,36 @@
+#footer {
+  background: #0066FF;
+
+  .footer--general {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    div {
+      p {
+        font-weight: 600;
+        font-size: 24px;
+        color: #FFFFFF;
+        padding-top: 30px;
+      }
+      h2 {
+        font-weight: 600;
+        font-size: 24px;
+        color: #FFFFFF;
+        padding-top: 41px;
+      }
+    }
+    h1 {
+      font-weight: 700;
+      font-size: 32px;
+      color: #FFFFFF;
+    }
+  }
+  h4 {
+    font-weight: 600;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    padding-top: 29px;
+    padding-bottom: 39px;
+  }
+}
